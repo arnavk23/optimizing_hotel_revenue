@@ -80,9 +80,8 @@ This project addresses revenue inefficiencies and profit bottlenecks in the hosp
 
 ---
 
-## 📂 Folder Structure
-├── Summer_project.ipynb # Main Colab notebook
-├── data/ #in a zip file
-├── README.md # Project overview and guide
-
+## Folder Structure
+├── Summer_project.ipynb 
+├── data/ in a zip file
+├── README.md 
 ---
